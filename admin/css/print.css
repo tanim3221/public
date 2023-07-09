@@ -1,0 +1,41 @@
+.ts-main-content .content-wrapper {
+    margin-left: unset !important;
+	margin-top: unset!important;
+}
+nav.ts-sidebar, .brand.clearfix {
+    display: none!important;
+}
+
+button.btn.btn-primary.btn-sm {
+
+    display: none!important;
+}
+
+#pay-fees tr p {
+    font-size: 22px!important;
+}
+
+#details-view{
+font-size:26px;
+margin-bottom:50px;
+border-bottom:1px solid #ddd;
+padding-top:10px;
+display:block;
+text-align:center;
+}
+ .print-time{
+    display:block;
+    padding: 10px 6px;
+    font-weight: bold;
+    text-align:center;
+    border:1px solid #ddd;
+    margin-top:10px;
+}
+
+#details-view-footer {
+    display:block;
+    text-align: center;
+    border-top: 1px solid #ddd;
+    margin-top: 15px;
+    padding: 10px 0px;
+}

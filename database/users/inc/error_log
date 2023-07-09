@@ -1,0 +1,5 @@
+[08-Feb-2020 00:16:56 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ruaatvfg/member.ruaaa.org/members-section/inc/connect.php on line 8
+[08-Feb-2020 00:16:56 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ruaatvfg/member.ruaaa.org/members-section/inc/connect.php on line 10
+[08-Feb-2020 00:16:56 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ruaatvfg/member.ruaaa.org/members-section/inc/connect.php on line 12
+[22-Mar-2020 19:28:20 Asia/Dhaka] PHP Warning:  strtr() expects at least 2 parameters, 1 given in /home/ruaatvfg/member.ruaaa.org/database/users/inc/authenticate.php on line 25
+[22-Mar-2020 19:28:30 Asia/Dhaka] PHP Warning:  strtr() expects at least 2 parameters, 1 given in /home/ruaatvfg/member.ruaaa.org/database/users/inc/authenticate.php on line 25

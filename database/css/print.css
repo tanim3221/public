@@ -1,0 +1,44 @@
+.profile-head, .profile-img, .ruaaa-img {
+    margin-top: 0px!important;
+}
+
+#middle-text{
+    text-align:left!important;
+}
+div#name-pro {
+    margin-left: 25%;
+}
+.footer-bottom {
+    border-top: 2px solid #08387F;
+}
+.navbar-top {
+    padding: 7px 0px;
+    border-bottom: 2px solid #08387f;
+}
+.ruaaa-img, #browser{
+    display: none;
+}
+
+td#hidden-middle {
+    text-align: center;
+}
+
+.GrayBlue20bold {
+   font-weight: normal!important;
+}
+
+.bdr-body {
+    border: unset!important;
+    border-radius: none;
+}
+
+td#print-css {
+    padding: 40px;
+}
+ 	#hidden {
+    display:none;
+}
+
+  .ruaaa-img img {
+    display:block;
+}

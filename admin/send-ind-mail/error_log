@@ -1,0 +1,229 @@
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:54:23 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 6
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:55:05 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 6
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:55:40 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 6
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 6
+[26-May-2020 13:55:48 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php:15
+Stack trace:
+#0 /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php(43): send_mail(NULL, 'tgbb', 'Hey ,\n\t\t\t\t\t<br>...')
+#1 {main}
+  thrown in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 15
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 6
+[26-May-2020 13:56:00 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php:15
+Stack trace:
+#0 /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php(43): send_mail(NULL, '6yy', 'Hey ,\n\t\t\t\t\t<br>...')
+#1 {main}
+  thrown in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 15
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 13:59:35 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 6
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 14:00:48 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 6
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 14:01:06 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 6
+[26-May-2020 14:02:40 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:02:40 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:02:40 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:02:40 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:02:40 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:02:40 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:03:15 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:03:15 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:03:15 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:03:15 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:03:15 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:03:15 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:03:53 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:03:53 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:03:53 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:03:53 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:03:53 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:03:53 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:04:01 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:04:01 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:04:01 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:04:01 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:04:01 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:04:01 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:04:10 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:04:10 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 6
+[26-May-2020 14:04:10 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:04:10 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/Exception.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 7
+[26-May-2020 14:04:10 Asia/Dhaka] PHP Warning:  include_once(PHPMailer/SMTP.php): failed to open stream: No such file or directory in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:04:10 Asia/Dhaka] PHP Warning:  include_once(): Failed opening 'PHPMailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 8
+[26-May-2020 14:04:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php:15
+Stack trace:
+#0 /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php(45): send_mail('astanim.3221@gm...', 'ddd', 'Hey Shekhhar Ku...')
+#1 {main}
+  thrown in /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php on line 15
+[26-May-2020 14:06:51 Asia/Dhaka] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php:1898
+Stack trace:
+#0 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1712): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1468): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 26 M...', 'Hey Shekhhar Ku...')
+#2 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1310): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php(39): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php(45): send_mail('astanim.3221@gm...', 'efed', 'Hey Shekhhar Ku...')
+#5 {main}
+  thrown in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php on line 1898
+[26-May-2020 14:08:25 Asia/Dhaka] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php:1898
+Stack trace:
+#0 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1712): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1468): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 26 M...', 'Hey Shekhhar Ku...')
+#2 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1310): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php(39): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php(44): send_mail('astanim.3221@gm...', 'ttttttttttttttt...', 'Hey Shekhhar Ku...')
+#5 {main}
+  thrown in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php on line 1898
+[26-May-2020 14:10:46 Asia/Dhaka] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php:1898
+Stack trace:
+#0 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1712): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1468): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 26 M...', 'Hey Shekhhar Ku...')
+#2 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1310): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php(39): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php(44): send_mail('astanim.3221@gm...', '2', 'Hey Shekhhar Ku...')
+#5 {main}
+  thrown in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php on line 1898
+[26-May-2020 14:13:39 Asia/Dhaka] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php:1898
+Stack trace:
+#0 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1712): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1468): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 26 M...', 'Hey Shekhhar Ku...')
+#2 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php(1310): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php(39): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php(47): send_mail('astanim.3221@gm...', 'efed', 'Hey Shekhhar Ku...')
+#5 {main}
+  thrown in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailer.php on line 1898
+[26-May-2020 14:18:14 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 14:18:16 Asia/Dhaka] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/class.phpmailer.php:1638
+Stack trace:
+#0 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#1 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Tue, 26 M...', 'Hey Shekhhar Ku...')
+#2 /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#3 /home/ruaatvfg/public_html/member/admin/send-ind-mail/sendemail.php(33): PHPMailer->send()
+#4 /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php(47): send_mail('astanim.3221@gm...', 'ds', 'Hey Shekhhar Ku...')
+#5 {main}
+  thrown in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/class.phpmailer.php on line 1638
+[26-May-2020 14:44:05 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 15:01:37 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 15:15:29 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 15:18:45 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 16:26:59 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 12
+[26-May-2020 16:26:59 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:26:59 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:26:59 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 29
+[26-May-2020 16:28:17 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 12
+[26-May-2020 16:28:17 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:28:17 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:28:17 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 29
+[26-May-2020 16:29:20 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 12
+[26-May-2020 16:29:20 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:29:20 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:29:20 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 29
+[26-May-2020 16:30:26 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 12
+[26-May-2020 16:30:26 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:30:26 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:30:26 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 29
+[26-May-2020 16:30:49 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 12
+[26-May-2020 16:30:49 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:30:49 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:30:49 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 29
+[26-May-2020 16:31:12 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 12
+[26-May-2020 16:31:12 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:31:12 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 20
+[26-May-2020 16:31:12 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 29
+[26-May-2020 18:05:39 Asia/Dhaka] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 10
+[26-May-2020 18:08:05 Asia/Dhaka] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 10
+[26-May-2020 18:08:09 Asia/Dhaka] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 10
+[26-May-2020 18:14:23 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 18:15:50 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 17
+[26-May-2020 18:15:50 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 25
+[26-May-2020 18:15:50 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 25
+[26-May-2020 18:15:50 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 34
+[26-May-2020 18:17:11 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 19
+[26-May-2020 18:17:11 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 18:17:11 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 18:17:11 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 36
+[26-May-2020 18:17:15 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 19
+[26-May-2020 18:17:15 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 18:17:15 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 18:17:15 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 36
+[26-May-2020 18:17:22 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 19
+[26-May-2020 18:17:22 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 18:17:22 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 18:17:22 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 36
+[26-May-2020 18:42:31 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 19:18:40 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 19:35:00 Asia/Dhaka] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ruaatvfg/public_html/member/admin/send-ind-mail/PHPMailer/PHPMailerAutoload.php on line 45
+[26-May-2020 19:51:14 Asia/Dhaka] PHP Notice:  Undefined index: member in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 19:51:14 Asia/Dhaka] PHP Notice:  Undefined index: member in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 10
+[26-May-2020 19:51:14 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 19
+[26-May-2020 19:51:14 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 19:51:14 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 19:51:14 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 36
+[26-May-2020 19:51:14 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 42
+[26-May-2020 20:27:29 Asia/Dhaka] PHP Notice:  Undefined index: member in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 5
+[26-May-2020 20:27:29 Asia/Dhaka] PHP Notice:  Undefined index: member in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 10
+[26-May-2020 20:27:29 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 19
+[26-May-2020 20:27:29 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 20:27:29 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 27
+[26-May-2020 20:27:29 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 36
+[26-May-2020 20:27:29 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 42
+[26-May-2020 20:27:29 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/ruaatvfg/public_html/member/admin/send-ind-mail/index.php on line 42

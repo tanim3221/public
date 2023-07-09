@@ -1,0 +1,13 @@
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+
+php_value date.timezone 'Asia/Dhaka'
+RewriteCond %{HTTP_HOST} ^database\.ruaaa\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.database\.ruaaa\.org$
+RewriteRule ^/?$ "http\:\/\/www\.ruaaa\.org\/member" [R=301,L]
+
